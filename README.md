@@ -22,4 +22,4 @@ To run the program, you will need **Python 3.x** and the following libraries:
 
 ## License
 
-This project use MIT license.
+This project uses MIT license.
