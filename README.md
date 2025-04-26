@@ -19,3 +19,7 @@ To run the program, you will need **Python 3.x** and the following libraries:
 
    ```bash
    pip install tkinter geopy tzwhere pytz numpy matplotlib skyfield pandas
+
+## License
+
+This project use MIT license.
